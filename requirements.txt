@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+# oTree-may-overwrite-this-file
+# IF YOU MODIFY THIS FILE, remove this comment.
+# otherwise, oTree will automatically overwrite it.
+otree>=5.0.0a21
+psycopg2>=2.8.4
+=======
+# oTree-may-overwrite-this-file
+# IF YOU MODIFY THIS FILE, remove this comment.
+# otherwise, oTree will automatically overwrite it.
+otree>=5.0.0a21
+psycopg2>=2.8.4
+>>>>>>> d14958d (Instructions and questionnaire: first update)
